@@ -15,7 +15,7 @@ The current index.html in just a bare html with very little styling:
 
 You have use the inlined purecss + add your inline css in the `index.html` file to design this page.
 
-### The challenge here is to design a theme that will look very close to demo.searchkit.co.
+### The challenge here is to design a detail page with a THEME THAT WILL LOOK LIKE demo.searchkit.co.
 
 Exemple of websites that you could take example on are:
 
