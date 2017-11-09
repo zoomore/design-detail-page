@@ -8,7 +8,7 @@ The theme of the detail page should be in the same tone as this page:
 ![alt searchkit theme](./searchkit.co_.jpg)
 
 Instead you will use the provided index.html that contains an inline 
-version of purecss.io `https://purecss.io/`
+version of `purecss.io` [https://purecss.io/](https://purecss.io/)
 
 The current index.html in just a bare html with very little styling:
 ![alt bare html](./detail.html.jpg)
