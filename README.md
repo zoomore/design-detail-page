@@ -11,7 +11,7 @@ Instead you will use the provided index.html that contains an inline
 version of purecss.io `https://purecss.io/`
 
 The current index.html in just a bare html with very little styling:
-![alt bare html](./detail.html.jpg.jpg)
+![alt bare html](./detail.html.jpg)
 
 You have use the inlined purecss + add your inline css to design this page.
 
