@@ -17,7 +17,7 @@ You have use the inlined purecss + add your inline css in the `index.html` file 
 
 ### The challenge here is to design a detail page with a THEME THAT WILL LOOK LIKE demo.searchkit.co.
 
-Exemple of websites that you could take example on are:
+The position of the elements on the page should be similar to this:
 
 `https://www.babysavings.com.au/prams-and-strollers/brands/bumbleride/bumbleride-indie-twin.html`
 
