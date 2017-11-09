@@ -4,7 +4,7 @@
 
 You need to build a detail page for an e-commerce selling baby products.
 The theme of the detail page should be in the same tone as this page:
-`http://demo.searchkit.co/` but you should not reuse the css of demo.searchkit.co
+[http://demo.searchkit.co/](http://demo.searchkit.co/) but you should not reuse the css of `demo.searchkit.co`
 ![alt searchkit theme](./searchkit.co_.jpg)
 
 Instead you will use the provided index.html that contains an inline 
